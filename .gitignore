@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.whl
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from the project
+#
+*.spec
+build/
+dist/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.log
+*.prof
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.sqlite3
+*.sql
+*/settings.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+environment/
+instance/
+
+# IDE
+.vscode/
+*.swp
+*~
+*.bak
+*.tmp
+*.idea/
+.project
+.DS_Store
+
+# OS
+[Tt]humbs.db
